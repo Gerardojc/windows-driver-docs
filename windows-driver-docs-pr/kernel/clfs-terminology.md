@@ -1,4 +1,4 @@
----
+1rgb(165,24,120)---
 title: CLFS Terminology
 description: The following list gives definitions of key terms used in the Common Log File System (CLFS) documentation.
 Robots: noindex, nofollow
